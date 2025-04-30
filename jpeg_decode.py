@@ -51,8 +51,7 @@ def bitwise_not_without_sign(num, _n):
 
 
 
-filename = './dat/encode_v3.bin'
-filename = './dat/test_v3.bin'
+filename = './dat/test_v4.bin'
 read_bits = read_bits_from_file_with_padding_info(filename)
 
 # 打印读取到的比特流
